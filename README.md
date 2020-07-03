@@ -19,9 +19,27 @@ ESP32-CAM or clone, like this, ![https://github.com/xiaolaba/ESP32-CAM_blink](ht
 
 ### software or setting on compile time,
 Arduino IDE 1.8.12  
-setting,
+loading,  
+![IDE_settting1.JPG](IDE_settting1.JPG)  
+..
+compile setting,  
+![IDE_settting2.JPG](IDE_settting2.JPG)  
 
 
 
-### captured screen of ESP32-CAM server,
+
+
+### captured screen of ESP32-CAM server,  
+
+OV2460_testing1-40mm.JPG  
+![OV2460_testing1-40mm.JPG](OV2460_testing1-40mm.JPG)  
+
+OV2460_testing2-30mm.JPG  
+![OV2460_testing2-30mm.JPG ](OV2460_testing2-30mm.JPG )  
+
+OV2460_testing3-35mm_no_light.JPG  
+![OV2460_testing3-35mm_no_light.JPG](OV2460_testing3-35mm_no_light.JPG)  
+
+OV2460_testing3-35mm.JPG  
+![OV2460_testing3-35mm.JPG](OV2460_testing3-35mm.JPG)  
 
