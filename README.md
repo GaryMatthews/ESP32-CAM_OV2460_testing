@@ -3,9 +3,12 @@
 
 the code was example and supplied by ESP32/Arduino, change those followings for the test,
 
-select Camera, #define CAMERA_MODEL_AI_THINKER  
-changed SSID & password, connect to local WIFI  
-static IP address, 192.168.1.201  
+load source code, Arduino/IDE/Example/ESP32/CameraWebServer,
+
+change the soruce code before compiling,
+* select Camera, #define CAMERA_MODEL_AI_THINKER  
+* changed SSID & password, connect to local WIFI  
+* add code for static IP address, 192.168.1.201  
 
 ### Result,
 UXGA 1600x1200 frame rate is real slow, about 8 seconds for frame update sometime, perhaps WIFI stack or setting not optimized.  
