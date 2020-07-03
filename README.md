@@ -1,9 +1,9 @@
 # ESP32-CAM_OV2460_testing
-test the ESP32-CAM, connect to local WIFI router, uses static IP 192.168.1.201  
+### test the ESP32-CAM, connect to local WIFI router, uses static IP 192.168.1.201  
 
 the code was example and supplied by ESP32/Arduino, change those followings for the test,
 
-select Camera, #define CAMERA_MODEL_AI_THINKER
+select Camera, #define CAMERA_MODEL_AI_THINKER  
 changed SSID & password, connect to local WIFI  
 static IP address, 192.168.1.201  
 
